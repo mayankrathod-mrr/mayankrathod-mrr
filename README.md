@@ -32,6 +32,9 @@ MERN Stack Developer | Full-Stack Web Developer
 
 ---
 
+## Contribution Snake  
+![snake gif](https://github.com/mayankrathod-mrr/mayankrathod-mrr/blob/output/snake.svg)
+
 ## About Me  
 I’m **Mayank R Rathod**, a fresher **MERN Stack Developer** with real-world experience building responsive web applications, secure REST APIs, and scalable full-stack systems.  
 
@@ -51,8 +54,4 @@ I’m passionate about learning, problem-solving, and building projects that ref
 ## Quick Note  
 If you’re interested in collaborating on web or full-stack projects, feel free to connect with me 🚀  
 
----
-
-## Contribution Snake  
-![snake gif](https://raw.githubusercontent.com/mayankrathod-mrr/mayankrathod-mrr/output/snake.svg)
 
