@@ -54,4 +54,5 @@ If you’re interested in collaborating on web or full-stack projects, feel free
 ---
 
 ## Contribution Snake  
-![snake gif](https://github.com/mayankrathod-mrr/mayankrathod-mrr/blob/output/snake.svg)
+![snake gif](https://raw.githubusercontent.com/mayankrathod-mrr/mayankrathod-mrr/output/snake.svg)
+
