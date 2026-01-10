@@ -17,7 +17,7 @@ MERN Stack Developer | Full-Stack Web Developer
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)  
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)  
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)  
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)  
+<!-- ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)   -->
 
 ---
 
@@ -33,7 +33,7 @@ MERN Stack Developer | Full-Stack Web Developer
 ## About Me  
 I’m **Mayank R Rathod**, a fresher **MERN Stack Developer** with real-world experience building responsive web applications, secure REST APIs, and scalable full-stack systems.  
 
-I work with **React, Node.js, MongoDB, Java, and JavaScript**, focusing on clean UI, smooth UX, and production-ready code.  
+I work with **React, Node.js, MongoDB, and JavaScript**, focusing on clean UI, smooth UX, and production-ready code.  
 I’m passionate about learning, problem-solving, and building projects that reflect real-world use cases.
 
 ---
